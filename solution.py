@@ -47,6 +47,7 @@ class BookScraper:
                     timeout=self.config.timeout
                 )
                 response.raise_for_status()
+                response.encoding = 'utf-8'
                 elapsed_time = (time.time() - start_time) * 1000
                 self.log_data.append({
                     "url": url,
