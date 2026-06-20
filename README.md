@@ -77,6 +77,7 @@ pip install bs4 pandas requests
 
 | File | Description |
 |---|---|
+| `.git` | Generated output |
 | `books_all.csv` | Generated output |
 | `books_by_category.csv` | Generated output |
 | `scraper_log.csv` | Generated output |
@@ -87,7 +88,7 @@ pip install bs4 pandas requests
 
 - **Lines of code**: 202
 - **Functions**: 9
-- **Output files**: 3
+- **Output files**: 4
 
 ---
 
