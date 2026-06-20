@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyc
+script.py
+task.txt
+SUCCESS
+last_error.txt
+needs_fixing.py
